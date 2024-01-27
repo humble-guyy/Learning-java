@@ -1,6 +1,6 @@
 package day1;
 import java.util.*;
-public class basic{
+public class learningscanner{
     public static void main(String[] args){
         String fname="Shivam";
         String name=null;
