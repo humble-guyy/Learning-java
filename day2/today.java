@@ -13,7 +13,8 @@ public class today {
     System.out.println(2>2 & 2!=3);
     System.out.println(num1<num2 && num2++>num3);
     System.out.println(num1<num2 & num2++>num3);
-
+//in logical operator if condition is not satisfied at very first stage it won't
+//proceed further but in binary operator it will first calculate all stages and then compute the answer
 
     }
 }
