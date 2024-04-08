@@ -13,5 +13,6 @@ public class problemsolvings {
         String s1=scan.nextLine();
         String s2=scan.nextLine();
         System.out.println(s1+s2);
+        scan.close();
     }
 }
